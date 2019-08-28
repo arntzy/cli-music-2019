@@ -1,16 +1,45 @@
-Week 1
-Introductions: Syllabus, Class Github, Command Line/Git Basics, Examples, (Supercollider, TidalCycles)
-
+# Week 1
+## Introductions to CLI Music
+- Syllabus/Class Policy (5 min)
+- Class Github (5 min)
+- Command Line/Git Basics (5 min)
+- Examples of Computer Music Projects/Pieces (
+- Composition 
+- Csound
 
 Week 1 Notes (Link to Notes)
 
+1. Go down rabbit holes
+
+1. Composition
+    1. Music as Theory - crash course in the bare bones of music. 
+        1. Harmony, flash cards, jazz theory
+        2. Melody as outlining chords (wrong notes, right notes)
+        3. sounds and tone
+        4. Mathematical foundation of music, generative composition
+            1. 12-tone serialists
+            2. B-A-C-H encoding
+            3. compositional techniques like retrograde, mirrors, reverse
+            4. Aleatoric music, Chance Music, John Cage
+            5. No repetition / endless repetition
+        5. Musical Examples through history using 'computation'
+        6. Musical Analysis using numbers
+            1. Flyby on music by numbers
+            2. Algorithmic composition
+    2. Music as Sound - crash course on sound generation and synthesis
+        1. General Synthesis 
+            1. Subtractive
+            2. Additive
+            3. VCV-Rack
+
 Assignment:
-- Find some interesting examples of live coding music or sound. Add them to the class github  and prepare to dial or otherwise show/talk about in class.
-- Sign up for the ITP-Telephony Mailing List.
-- Sign up for a class presentation slot
-- Get up and running with your Asterisk account. Try some simple commands in your Dialplan such as SayDigits, Playtones, Playback, and so on. Use the Asterisk book or voip-info.org as a reference.
 
-Materials:
+- Find some interesting examples of live coding music or sounds you like, in Csound. Add them to the class github, and prepare to talk about them in class.
+- Explore https://csound.com/index.html
 
+Materials and Links:
+
+- [VCVRack](https://vcvrack.com/)
+- [Csound](https://csound.com/index.html)
 - [The Linux Command Line For Beginners](https://tutorials.ubuntu.com/tutorial/command-line-for-beginners#0)
 - [The Linux Command Line](http://linuxcommand.org/tlcl.php)
