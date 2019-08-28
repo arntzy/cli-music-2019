@@ -39,6 +39,8 @@ Assignment:
 
 Materials and Links:
 
+- Csound Links:
+- https://vlazzarini.github.io/paw/examples/index.html
 - [Online Csound](https://thumbsdb.herokuapp.com/csound/)
 - [VCVRack](https://vcvrack.com/)
 - [Csound](https://csound.com/index.html)
