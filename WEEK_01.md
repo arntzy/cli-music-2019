@@ -39,6 +39,7 @@ Assignment:
 
 Materials and Links:
 
+- [Online Csound](https://thumbsdb.herokuapp.com/csound/)
 - [VCVRack](https://vcvrack.com/)
 - [Csound](https://csound.com/index.html)
 - [The Linux Command Line For Beginners](https://tutorials.ubuntu.com/tutorial/command-line-for-beginners#0)
