@@ -10,6 +10,7 @@
 Week 1 Notes (Link to Notes)
 
 1. Go down rabbit holes
+2. Making music based on text files or commands allow you to utilize the world of programming/version control systems
 
 1. Composition
     1. Music as Theory - crash course in the bare bones of music. 
