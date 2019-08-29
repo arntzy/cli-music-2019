@@ -1,9 +1,9 @@
-# Week 1
+# Week 1 Class 1 (90 Min)
 ## Introductions to CLI Music
 - Syllabus/Class Policy (5 min)
 - Class Github (5 min)
-- Command Line/Git Basics (5 min)
-- Examples of Computer Music Projects/Pieces (
+- Command Line/Git Basics (10 min)
+- Examples of Computer Music Projects/Pieces (10 min)
 - Composition 
 - Csound
 
