@@ -1,4 +1,4 @@
-# Week 1 Class 1 (90 Min)
+# Week 1 Class 1 (150 min)
 ## Introductions to CLI Music
 - Syllabus/Class Policy (5 min)
 - Class Github (5 min)
