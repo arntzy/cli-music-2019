@@ -4,8 +4,8 @@
 - Class Github (5 min)
 - Command Line/Git Basics (10 min)
 - Examples of Computer Music Projects/Pieces (10 min)
-- Composition 
-- Csound
+- Composition (60 min)
+- Csound (60 min)
 
 Week 1 Notes (Link to Notes)
 
@@ -32,6 +32,12 @@ Week 1 Notes (Link to Notes)
             1. Subtractive
             2. Additive
             3. VCV-Rack
+    3. Csound
+        1. [build from source](https://github.com/csound/csound/blob/develop/BUILD.md)
+        2. Open a file in your editor of choice (VIM, obviously!) [Csound tools for Vim](https://vimawesome.com/plugin/csound)
+        3. Set up [tmux](https://github.com/tmux/tmux)
+        4. Hello, CSound!
+          
 
 Assignment:
 
