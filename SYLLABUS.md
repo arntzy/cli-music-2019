@@ -12,67 +12,53 @@ The class will conclude with a public performance of your final projects: **TBD 
 - Command Line/Git Basics
 - Examples of Computer Music Projects/Pieces
 - Music Theory/Composition Speedthrough
-- Intro to Csound
+- Audio Processing/Generation with CLI tools, SoX, ffmpeg, etc.
+- shell-scripting (artificial warped record script) --TODO, write this script. 
 
 #### Assignment #1 (Due week 2)
-- Explore [Csound](https://csound.com/index.html)
-- Find an interesting online example of music/sound made with Csound. Add the link to the [class wiki](https://github.com/arntzy/cli-music-2019/wiki.md), and prepare to talk about it in class.
-- Create a well-known melody in Csound, record it, and submit the link to your project on the [class wiki](https://github.com/arntzy/cli-music-2019/wiki.md).
-
+- make a new composition from existing audio using SoX, etc.
+- Submit a link to it on the [class wiki](https://github.com/arntzy/cli-music-2019/wiki.md), and prepare to talk about it in class.
+- write a basic shell script to do something to a piece of audio
 *** 
 
 ### Week 2
-TODO
-***
+- Intro to Csound
+- Intro to Chuck
 
-SAM's
-- Controlling IP cameras
-- Controlling cameras with servos/steppers
-- Intro to OpenCV
-- **Project 1 due**
-***
-#### Project #2 (due week 4)
-- Shoot a video automatically.
-- Submit a link to your project on the [class homework wiki](https://github.com/antiboredom/automating-video-itp/wiki).
+#### Assignment #2 (Due week 3)
+- Explore [Csound](https://csound.com/index.html) and Chuck
+- Find an interesting online example of music/sound made with Csound. Add the link to the [class wiki](https://github.com/arntzy/cli-music-2019/wiki.md), and prepare to talk about it in class.
+- Create a well-known melody in Csound and Chuck, record them, and submit the link to your project on the [class wiki](https://github.com/arntzy/cli-music-2019/wiki.md).
 
 ***
 
 ### Week 3
-- Videogrep & transcribing video
-- More on moviepy
-- More on ffmpeg
-
+- Intro to Supercollider / sclang
+- Intro to Overtone / Clojure
+- Midi Interaction? 
 ***
 
 ### Week 4
-
-- Image manipulation with pillow
-- Using processing from the command line
-- Making a video-generating bot
-- **Project 2 due**
-
-#### Project 3 (due week 6)
-- Make a video bot.
-- Submit a link to your project on the [class homework wiki](https://github.com/antiboredom/automating-video-itp/wiki).
-
+- Intro to Tidal-Cycles / Haskell
+- Live-Coding and Midi Interaction
 ***
 
 ### Week 5
-- TBD (based on class needs & desires)
-
+- Raspberry pi and embedded audio
+- linux audio
 ***
 
 ### Week 6
 - Final presentations and critique
 
-### Public Screening: December 12th, 6pm
-- The class will conclude with a public screening of final projects, at ITP. You may screen any project you made during the class.
+### Public Screening: TBD
+- The class will conclude with a public performance of final projects, at ITP. You may perform any project you made during the class.
 
 ***
 
 ## Grading
 * Each of the three projects is worth 25% of your grade, and class participation is 25%.
-* To turn in your projects, add them to the [class homework wiki](https://github.com/antiboredom/automating-video-itp/wiki). (Just hit the edit button)
+* To turn in your projects, add them to the [class wiki](https://github.com/arntzy/cli-music-2019/wiki.md). (Just hit the edit button)
 * Please come to class, and be on time!
 * Coming to class more than 20 minutes late counts as an absence.
 * More than one unexcused absence is grounds for failure :(
@@ -87,7 +73,7 @@ SAM's
 
 ## Office Hours and General Help
 
-I'm available to meet by appointment in person or by Skype/Google Hangouts. Please email me at lavigne@nyu.edu to schedule a meeting, or if you have any questions or concerns about the class.
+I'm available to meet by appointment in person or by Skype/Google Hangouts. Please email me at aarntz@nyu.edu to schedule a meeting, or if you have any questions or concerns about the class.
 
 ***
 
