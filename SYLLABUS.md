@@ -22,11 +22,15 @@ The class will conclude with a public performance of your final projects: **TBD 
 *** 
 
 ### Week 2
+TODO
+***
+
+SAM's
 - Controlling IP cameras
 - Controlling cameras with servos/steppers
 - Intro to OpenCV
 - **Project 1 due**
-
+***
 #### Project #2 (due week 4)
 - Shoot a video automatically.
 - Submit a link to your project on the [class homework wiki](https://github.com/antiboredom/automating-video-itp/wiki).
