@@ -15,7 +15,8 @@ This template was taken from [Sam Lavigne's Automating Video Class](https://gith
 - Examples of Computer Music Projects/Pieces
 - Music Theory/Composition Speedthrough
 - Audio Processing/Generation with CLI tools, SoX, etc.
-- shell-scripting (artificial warped record script) --TODO, write this script. 
+- One-liners
+- Shell-scripting (artificial warped record script) 
 
 #### Assignment #1 (Due week 2)
 - make a new composition from existing audio using SoX, etc.
