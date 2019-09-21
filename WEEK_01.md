@@ -1,13 +1,21 @@
-# Week 1 (150 min)
-## Introductions to CLI Music
-- Syllabus/Class Policy (5 min)
-- Class Github (5 min)
-- Command Line/Git Basics (10 min)
-- Examples of Computer Music Projects/Pieces (10 min)
-- Composition (60 min)
-- Csound (60 min)
+# Week 1
+- Introductions and Syllabus/Class Policy
+- Class Wiki / How to hand in homework
+- Command Line/Git Basics
+- Examples of Computer Music Projects/Pieces
+- Music Theory/Composition Speedthrough
+- Audio Processing/Generation with CLI tools, SoX, ffmpeg, etc.
+- shell-scripting (artificial warped record script) --TODO, write this script. 
 
-Week 1 Notes (Link to Notes)
+#### Assignment #1 (Due week 2)
+- make a new composition from existing audio using SoX, etc.
+- Submit a link to it on the [class wiki](https://github.com/arntzy/cli-music-2019/wiki.md), and prepare to talk about it in class.
+- write a basic shell script to do something to a piece of audio
+
+### Week 1 Notes
+
+1. command line basics   
+2. git basics 
 
 1. Go down rabbit holes
 2. Making music based on text files or commands allow you to utilize the world of programming/version control systems
