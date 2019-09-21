@@ -4,6 +4,8 @@ In this class students will learn to use the command line and text-based music/s
 
 The class will conclude with a public performance of your final projects: **TBD at ITP**
 
+This template was taken from [Sam Lavigne's Automating Video Class](https://github.com/antiboredom/automating-video-itp/blob/master/README.md)
+
 ## Schedule
 
 ### Week 1
