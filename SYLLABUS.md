@@ -14,7 +14,7 @@ This template was taken from [Sam Lavigne's Automating Video Class](https://gith
 - Command Line/Git Basics
 - Examples of Computer Music Projects/Pieces
 - Music Theory/Composition Speedthrough
-- Audio Processing/Generation with CLI tools, SoX, ffmpeg, etc.
+- Audio Processing/Generation with CLI tools, SoX, etc.
 - shell-scripting (artificial warped record script) --TODO, write this script. 
 
 #### Assignment #1 (Due week 2)
@@ -75,7 +75,7 @@ This template was taken from [Sam Lavigne's Automating Video Class](https://gith
 
 ## Office Hours and General Help
 
-I'm available to meet by appointment in person or by Skype/Google Hangouts. Please email me at aarntz@nyu.edu to schedule a meeting, or if you have any questions or concerns about the class.
+I'm available to meet by appointment in person or by Skype/Google Hangouts. Please email me at aja466@nyu.edu to schedule a meeting, or if you have any questions or concerns about the class.
 
 ***
 
