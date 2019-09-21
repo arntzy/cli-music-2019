@@ -15,8 +15,9 @@ The class will conclude with a public performance of your final projects: **TBD 
 - Intro to Csound
 
 #### Project #1 (Due week 2)
-- Create a video that repurposes footage you find online. Think about the meaning of your source material, and what new meaning can create with it. Your work should reveal something about your source material, add to it, tell a new story with it.
-- Submit a link to your project on the [class homework wiki](https://github.com/antiboredom/automating-video-itp/wiki)
+- Find an interesting online example of music/sound made with Csound. Add the link to the [class wiki](https://github.com/arntzy/cli-music-2019/wiki.md), and prepare to talk about it in class.
+- Explore [Csound](https://csound.com/index.html)
+- re-create a well-known melody in Csound, record it, and submit the link to your project on the [class wiki](https://github.com/arntzy/cli-music-2019/wiki.md).
 
 *** 
 
