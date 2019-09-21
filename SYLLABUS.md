@@ -14,7 +14,7 @@ The class will conclude with a public performance of your final projects: **TBD 
 - Music Theory/Composition Speedthrough
 - Intro to Csound
 
-#### Project #1 (Due week 2)
+#### Assignment #1 (Due week 2)
 - Explore [Csound](https://csound.com/index.html)
 - Find an interesting online example of music/sound made with Csound. Add the link to the [class wiki](https://github.com/arntzy/cli-music-2019/wiki.md), and prepare to talk about it in class.
 - Create a well-known melody in Csound, record it, and submit the link to your project on the [class wiki](https://github.com/arntzy/cli-music-2019/wiki.md).
