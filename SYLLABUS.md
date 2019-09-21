@@ -1,8 +1,8 @@
-# Automating Video
+# Music From The Command Line
 
-In this experimental video class students will learn to use Python and command line tools to explore the possibilities of automating the film-making process. We will cover techniques for capturing, analyzing, editing and manipulating video with code. We’ll treat video as a textual as well as visual medium, repurposing found footage to generate new compositions and narratives.
+In this class students will learn to use the command line and text-based music/sound frameworks to produce original compositions. We will survey different computer music tools to find commonality and idiosyncrasies in computer music systems. In addition to generating recorded music, students will also perform in a live-coding environment -- all in the terminal.  
 
-The class will conclude with a public screening of your final projects: **December 12th, 6pm at ITP**
+The class will conclude with a public performance of your final projects: **TBD at ITP**
 
 ## Schedule
 
