@@ -7,13 +7,12 @@ The class will conclude with a public performance of your final projects: **TBD 
 ## Schedule
 
 ### Week 1
-- Introductions and syllabus
-- How to hand in your homework
-- Intro to the command line
-- Getting content with youtube-dl
-- Quick overview of python
-- Editing video with python and moviepy
-- Intro to ffmpeg (time permitting)
+- Introductions and Syllabus/Class Policy
+- Class Wiki / How to hand in homework
+- Command Line/Git Basics
+- Examples of Computer Music Projects/Pieces
+- Music Theory/Composition Speedthrough
+- Intro to Csound
 
 #### Project #1 (Due week 2)
 - Create a video that repurposes footage you find online. Think about the meaning of your source material, and what new meaning can create with it. Your work should reveal something about your source material, add to it, tell a new story with it.
