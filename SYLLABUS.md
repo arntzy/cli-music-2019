@@ -1,12 +1,4 @@
-# Music From The Command Line
-
-In this class students will learn to use text-based music/sound frameworks and the command line to produce original compositions. We will survey different computer music tools to find commonality and idiosyncrasies in computer music systems. In addition to generating recorded music, students will also perform in a live-coding environment -- all in the terminal.  
-
-The class will conclude with a public performance of your final projects: **TBD at ITP**
-
-This template was taken from [Sam Lavigne's Automating Video Class](https://github.com/antiboredom/automating-video-itp/blob/master/README.md)
-
-## Schedule
+# Music From The Command Line Syllabus
 
 ### Week 1
 - Introductions and Syllabus/Class Policy
