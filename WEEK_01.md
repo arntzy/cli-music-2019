@@ -14,7 +14,7 @@
 
 ### Week 1 Notes
 
-1. command line basics   
+1. command line basics
 2. git basics 
 
 1. Go down rabbit holes
@@ -45,19 +45,9 @@
         2. Open a file in your editor of choice (VIM, obviously!) [Csound tools for Vim](https://vimawesome.com/plugin/csound)
         3. Set up [tmux](https://github.com/tmux/tmux)
         4. Hello, CSound!
-          
-
-Assignment:
-
-- Find some interesting examples of live coding music or sounds you like, in Csound. Add them to the class github, and prepare to talk about them in class.
-- Explore https://csound.com/index.html
 
 Materials and Links:
 
-- Csound Links:
-- https://vlazzarini.github.io/paw/examples/index.html
-- [Online Csound](https://thumbsdb.herokuapp.com/csound/)
 - [VCVRack](https://vcvrack.com/)
-- [Csound](https://csound.com/index.html)
 - [The Linux Command Line For Beginners](https://tutorials.ubuntu.com/tutorial/command-line-for-beginners#0)
 - [The Linux Command Line](http://linuxcommand.org/tlcl.php)

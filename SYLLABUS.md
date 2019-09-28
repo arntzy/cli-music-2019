@@ -1,6 +1,6 @@
 # Music From The Command Line
 
-In this class students will learn to use the command line and text-based music/sound frameworks to produce original compositions. We will survey different computer music tools to find commonality and idiosyncrasies in computer music systems. In addition to generating recorded music, students will also perform in a live-coding environment -- all in the terminal.  
+In this class students will learn to use text-based music/sound frameworks and the command line to produce original compositions. We will survey different computer music tools to find commonality and idiosyncrasies in computer music systems. In addition to generating recorded music, students will also perform in a live-coding environment -- all in the terminal.  
 
 The class will conclude with a public performance of your final projects: **TBD at ITP**
 
@@ -25,6 +25,7 @@ This template was taken from [Sam Lavigne's Automating Video Class](https://gith
 *** 
 
 ### Week 2
+- Free Software Ideals
 - Intro to Csound
 - Intro to Chuck
 
@@ -38,7 +39,12 @@ This template was taken from [Sam Lavigne's Automating Video Class](https://gith
 ### Week 3
 - Intro to Supercollider / sclang
 - Intro to Overtone / Clojure
-- Midi Interaction? 
+- Midi Interaction 
+
+#### Assignment #3 (Due week 4)
+- build an instrument with supercollider to accept input from something unconventional, record it and submit the link to your project on the [class wiki](https://github.com/arntzy/cli-music-2019/wiki.md).
+- explore overtone and be prepared to contribute to a 'jam' with some commands
+
 ***
 
 ### Week 4
@@ -47,11 +53,16 @@ This template was taken from [Sam Lavigne's Automating Video Class](https://gith
 ***
 
 ### Week 5
-- Raspberry pi and embedded audio
-- linux audio
+- ML and charRNN to generate musical source files
+- other generative techniques
 ***
 
 ### Week 6
+- Raspberry pi and embedded audio
+- linux audio
+- Final presentations and critique
+
+### Week 7
 - Final presentations and critique
 
 ### Public Screening: TBD
