@@ -50,3 +50,6 @@
 *.eot
 *.ttf
 *.woff
+
+# Local Stuff
+itp_course_proposal_private.md
