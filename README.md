@@ -22,7 +22,7 @@ This class format template was taken from [Sam Lavigne's Automating Video Class]
 
 #### Assignment #1 (Due week 2)
 - make a new composition from existing audio using SoX, etc.
-- Submit a link to it on the [class wiki](https://github.com/arntzy/cli-music-2019/wiki.md), and prepare to talk about it in class.
+- Submit a link to it on the [class wiki](https://github.com/arntzy/cli-music-2019/wiki), and prepare to talk about it in class.
 - write a basic shell script to do something to a piece of audio
 *** 
 
@@ -33,8 +33,8 @@ This class format template was taken from [Sam Lavigne's Automating Video Class]
 
 #### Assignment #2 (Due week 3)
 - Explore Csound and Chuck
-- Find an interesting online example of music/sound made with Csound. Add the link to the [class wiki](https://github.com/arntzy/cli-music-2019/wiki.md), and prepare to talk about it in class.
-- Create a well-known melody in Csound and Chuck, record them, and submit the link to your project on the [class wiki](https://github.com/arntzy/cli-music-2019/wiki.md).
+- Find an interesting online example of music/sound made with Csound. Add the link to the [class wiki](https://github.com/arntzy/cli-music-2019/wiki), and prepare to talk about it in class.
+- Create a well-known melody in Csound and Chuck, record them, and submit the link to your project on the [class wiki](https://github.com/arntzy/cli-music-2019/wiki).
 
 ***
 
@@ -43,7 +43,7 @@ This class format template was taken from [Sam Lavigne's Automating Video Class]
 - Connect midi/OSC
 
 #### Assignment #3 (Due week 4)
-- build an instrument with supercollider to accept input from something unconventional, record it and submit the link to your project on the [class wiki](https://github.com/arntzy/cli-music-2019/wiki.md).
+- build an instrument with supercollider to accept input from something unconventional, record it and submit the link to your project on the [class wiki](https://github.com/arntzy/cli-music-2019/wiki).
 
 ***
 
@@ -90,7 +90,7 @@ This class format template was taken from [Sam Lavigne's Automating Video Class]
 
 ## Grading
 * Each of the projects, as well as class participation, is worth an equal amount of your grade, 
-* To turn in your projects, add them to the [class wiki](https://github.com/arntzy/cli-music-2019/wiki.md). (Just hit the edit button)
+* To turn in your projects, add them to the [class wiki](https://github.com/arntzy/cli-music-2019/wiki). (Just hit the edit button)
 * Please come to class, and be on time!
 * Coming to class more than 20 minutes late counts as an absence.
 * More than one unexcused absence is grounds for failure :(
