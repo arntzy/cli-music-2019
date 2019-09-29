@@ -24,6 +24,7 @@
 *.png
 *.svg
 *.ico
+*.pdf
 
 # Video
 *.wmv

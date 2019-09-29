@@ -5,7 +5,6 @@
 
 #### Assignment #3 (Due week 4)
 - build an instrument with supercollider to accept input from something unconventional, record it and submit the link to your project on the [class wiki](https://github.com/arntzy/cli-music-2019/wiki.md).
-- explore overtone and be prepared to contribute to a 'jam' with some commands
 
 ### Week 3 Notes
 
@@ -20,16 +19,16 @@
   - execute lines of supercollider using sclang
   - execute lines of supercollider using overtone
 
-2. Overtone / Clojure
-  - Lisps
-  - REPLs
-
-3. Connect a midi instrument
-
+2. Connect midi/OSC
+  - midi interfaces
+  - OSC, the future
+      - pyOSC?
 
 #### Materials and Links:
 
 - Links
-    - [Supercollider](https://supercollider.github.io/)
-    - [Overtone]()
+  - [Supercollider](https://supercollider.github.io/)
 
+- Resources
+
+- Inspiration 
